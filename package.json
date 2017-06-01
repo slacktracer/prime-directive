@@ -1,0 +1,28 @@
+{
+  "name": "prime-directive",
+  "version": "0.0.1",
+  "description": "A prime factorization lib",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "ava specs.js --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slacktracer/prime-directive.git"
+  },
+  "keywords": [
+    "factorization",
+    "integer",
+    "prime factors"
+  ],
+  "author": "Thiago F",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/slacktracer/prime-directive/issues"
+  },
+  "homepage": "https://github.com/slacktracer/prime-directive#readme",
+  "devDependencies": {
+    "ava": "^0.19.1"
+  }
+}
